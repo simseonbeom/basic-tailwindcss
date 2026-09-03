@@ -1,0 +1,29 @@
+{
+  "$metadata": {
+    "collection": "Buttons",
+    "modes": [
+      "English",
+      "Korean"
+    ]
+  },
+  "English": {
+    "pill-fill": {
+      "$value": "Learn more",
+      "$type": "string"
+    },
+    "pill-round": {
+      "$value": "Buy",
+      "$type": "string"
+    }
+  },
+  "Korean": {
+    "pill-fill": {
+      "$value": "더 알아보기",
+      "$type": "string"
+    },
+    "pill-round": {
+      "$value": "구입하기",
+      "$type": "string"
+    }
+  }
+}
